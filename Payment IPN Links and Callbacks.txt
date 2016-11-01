@@ -1,0 +1,39 @@
+IPN (Instant Payment Notification) links and callback`s
+--------------------------------------------------------
+
+PayPal: http://yourdomain.com/payment.php?b=check&c=paypal
+
+Skrill: http://yourdomain.com/payment.php?b=check&c=skrill
+
+WebMoney: http://yourdomain.com/payment.php?b=check&c=webmoney&d=result
+	  http://yourdomain.com/payment.php?b=check&c=webmoney&d=success
+	  http://yourdomain.com/payment.php?b=check&c=webmoney&d=fail
+
+Payeer: http://yourdomain.com/payment.php?b=check&c=payeer
+
+Perfect Money: http://yourdomain.com/payment.php?b=check&c=perfectmoney&d=status
+	       http://yourdomain.com/payment.php?b=check&c=perfectmoney&d=complete
+	       http://yourdomain.com/payment.php?b=check&c=perfectmoney&d=failed
+
+OKPay: http://yourdomain.com/payment.php?b=check&c=okpay
+
+AdvCash: http://yourdomain.com/payment.php?b=check&c=advcash&d=success
+	 http://yourdomain.com/payment.php?b=check&c=advcash&d=fail
+	 http://yourdomain.com/payment.php?b=check&c=advcash&d=status
+
+Entromoney: http://yourdomain.com/payment.php?b=check&c=entromoney&d=status
+	    http://yourdomain.com/payment.php?b=check&c=entromoney&d=success
+	    http://yourdomain.com/payment.php?b=check&c=entromoney&d=fail
+
+Payza: http://yourdomain.com/payment.php?b=check&c=payza&d=results
+       http://yourdomain.com/payment.php?b=check&c=payza&d=cancel
+
+SolidTrust Pay: http://yourdomain.com/payment.php?b=check&c=solidtrustpay&d=notify
+		http://yourdomain.com/payment.php?b=check&c=solidtrustpay&d=confirm
+		http://yourdomain.com/payment.php?b=check&c=solidtrustpay&d=return
+
+Bitcoin: http://yourdomain.com/payment.php?b=check&c=bitcoin
+
+Litecoin: http://yourdomain.com/payment.php?b=check&c=litecoin
+
+Dogecoin: http://yourdomain.com/payment.php?b=check&c=dogecoin

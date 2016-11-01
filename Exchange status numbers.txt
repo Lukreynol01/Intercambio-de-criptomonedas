@@ -1,0 +1,25 @@
+If you need to change manually the exchange status can manage it via phpMyAdmin of your hosting.
+
+Open phpmyadmin -> select database -> list table "ec_exchanges".
+Every row have a column "status", any number of different status displays text and do a certain function in the system.
+
+If status is "1" the text is: "Awaiting Confirmation"
+When users complete the exchange format and presses the exchange will show a table of information exchange and it will need to confirm it.
+
+If status is "2" the text is: "Awaiting Payment"
+When user click to confirm exchange will be redirect to payment form.
+
+If status is "3" the text is: "Processing"
+This status is when user already payed their order. The exchange waiting the action from Your side.
+
+If status is "4" the text is: "Processed"
+This status is when you already process order from your side. I.e. you sent money to client.
+
+If status is "5" the text is: "Timeout"
+Client have 24 hours to pay his/her exchange order. If he/she dont pay order will be changed to this status.
+
+If status is "6" the text is: "Denied"
+This status means that you refused the order and are back money to the customer.
+
+If status is "7" the text is: "Canceled"
+When client cancel the exchange order.
