@@ -1,0 +1,34 @@
+[25-Jun-2016 02:41:51 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/intermo1/public_html/requests/calculateBuy.php on line 32
+[25-Jun-2016 02:41:55 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/intermo1/public_html/requests/calculateSell.php on line 41
+[26-Jun-2016 16:35:21 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/intermo1/public_html/requests/calculateBuy.php on line 33
+[26-Jun-2016 16:37:14 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/intermo1/public_html/requests/calculateBuy.php on line 33
+[26-Jun-2016 16:43:50 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/intermo1/public_html/requests/calculateSell.php on line 46
+[26-Jun-2016 16:44:09 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/intermo1/public_html/requests/calculateSell.php on line 60
+[26-Jun-2016 16:44:30 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/intermo1/public_html/requests/calculateSell.php on line 60
+[26-Jun-2016 16:45:37 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/intermo1/public_html/requests/calculateSell.php on line 41
+[26-Jun-2016 16:47:13 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/intermo1/public_html/requests/calculateBuy.php on line 37
+[26-Jun-2016 16:48:26 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/intermo1/public_html/requests/calculateBuy.php on line 38
+[26-Jun-2016 16:49:02 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/intermo1/public_html/requests/calculateBuy.php on line 37
+[26-Jun-2016 16:49:24 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/intermo1/public_html/requests/calculateBuy.php on line 38
+[26-Jun-2016 16:49:29 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/intermo1/public_html/requests/calculateBuy.php on line 37
+[26-Jun-2016 16:49:33 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/intermo1/public_html/requests/calculateBuy.php on line 37
+[26-Jun-2016 16:49:36 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/intermo1/public_html/requests/calculateBuy.php on line 37
+[26-Jun-2016 16:51:16 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/intermo1/public_html/requests/calculateSell.php on line 45
+[26-Jun-2016 16:51:25 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/intermo1/public_html/requests/calculateBuy.php on line 32
+[26-Jun-2016 16:51:34 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/intermo1/public_html/requests/calculateBuy.php on line 33
+[02-Jul-2016 00:08:13 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/intermo1/public_html/requests/calculateBuy.php on line 30
+[02-Jul-2016 00:10:04 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/intermo1/public_html/requests/calculateSell.php on line 40
+[02-Jul-2016 00:39:58 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/intermo1/public_html/requests/calculateBuy.php on line 29
+[02-Jul-2016 11:54:48 America/Chicago] PHP Fatal error:  Call to undefined function protect() in /home/intermo1/public_html/requests/calculateSell.php on line 8
+[02-Jul-2016 11:54:48 America/Chicago] PHP Fatal error:  Call to undefined function protect() in /home/intermo1/public_html/requests/calculateSell.php on line 8
+[02-Jul-2016 11:54:48 America/Chicago] PHP Fatal error:  Call to undefined function protect() in /home/intermo1/public_html/requests/calculateSell.php on line 8
+[02-Jul-2016 11:54:58 America/Chicago] PHP Fatal error:  Call to undefined function protect() in /home/intermo1/public_html/requests/calculateSell.php on line 8
+[02-Jul-2016 11:54:58 America/Chicago] PHP Fatal error:  Call to undefined function protect() in /home/intermo1/public_html/requests/calculateSell.php on line 8
+[02-Jul-2016 11:54:59 America/Chicago] PHP Fatal error:  Call to undefined function protect() in /home/intermo1/public_html/requests/calculateSell.php on line 8
+[02-Jul-2016 11:54:59 America/Chicago] PHP Fatal error:  Call to undefined function protect() in /home/intermo1/public_html/requests/calculateSell.php on line 8
+[02-Jul-2016 12:27:58 America/Chicago] PHP Fatal error:  Call to undefined function parseInt() in /home/intermo1/public_html/requests/calculateSell.php on line 14
+[02-Jul-2016 12:27:58 America/Chicago] PHP Fatal error:  Call to undefined function parseInt() in /home/intermo1/public_html/requests/calculateSell.php on line 14
+[02-Jul-2016 12:27:58 America/Chicago] PHP Fatal error:  Call to undefined function parseInt() in /home/intermo1/public_html/requests/calculateSell.php on line 14
+[02-Jul-2016 12:28:01 America/Chicago] PHP Fatal error:  Call to undefined function parseInt() in /home/intermo1/public_html/requests/calculateSell.php on line 14
+[02-Jul-2016 12:28:04 America/Chicago] PHP Fatal error:  Call to undefined function parseInt() in /home/intermo1/public_html/requests/calculateSell.php on line 14
+[02-Jul-2016 12:28:04 America/Chicago] PHP Fatal error:  Call to undefined function parseInt() in /home/intermo1/public_html/requests/calculateSell.php on line 14
